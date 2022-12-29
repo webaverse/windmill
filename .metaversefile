@@ -1,0 +1,5 @@
+{
+  "name": "windmill",
+  "description": "windmill",
+  "start_url": "index.js"
+}
